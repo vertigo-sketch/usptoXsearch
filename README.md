@@ -1,3 +1,7 @@
+NOTE: Work in progress.  I was experimenting with an interface other than Streamlit to produce a more enterprise level gui for the search function and then a visualization layer for metrics between two different protocols; MCP vs API.
+This project was to get me familiar with API calling, polling, latency, and multiple streams of data.
+The idea was to see how an MCP vs API handled the transport of data.
+
 # usptoXsearch
 
 A professional desktop application for accessing and searching USPTO (United States Patent and Trademark Office) data via a Model Context Protocol (MCP) server. Built with Python, PySide6, and the MCP protocol.
